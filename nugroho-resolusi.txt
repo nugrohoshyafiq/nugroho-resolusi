@@ -2,3 +2,4 @@ NUGROHO RESOLUSI
 - Konsisten untuk membangun WEB
 - Membuat rangkaian WEB
 - Membuat isi WEB
+- Membuat rencana isi WEB
